@@ -13,3 +13,7 @@ texto normal
 ```python
 [print('Hello World') for i in range(10)]
 ```
+## Lista de check items
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Tomar once
